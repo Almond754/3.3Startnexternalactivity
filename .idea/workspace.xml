@@ -8,6 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="27bdec4f-9b62-4e14-9e73-f1a6e3942138" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameWonFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameWonFragment.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -312,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595880889704</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="3.3.4 step3">
+      <created>1595881117237</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1595881117237</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -340,7 +348,8 @@
     <MESSAGE value="3.3.3 step3" />
     <MESSAGE value="3.3.4 step1" />
     <MESSAGE value="3.3.4 step2" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.3.4 step2" />
+    <MESSAGE value="3.3.4 step3" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.3.4 step3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="883" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595872045046">
@@ -355,10 +364,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="1011" y="237" key="AndroidCreateXmlResourceDialog/0.0.1536.824@0.0.1536.824" timestamp="1595875593655" />
-    <state x="491" y="9" key="CommitChangelistDialog2" timestamp="1595880889206">
+    <state x="491" y="9" key="CommitChangelistDialog2" timestamp="1595881116750">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="491" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1595880889206" />
+    <state x="491" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1595881116750" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1595871529825">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -383,10 +392,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="722" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595872465088" />
-    <state x="722" y="145" key="Vcs.Push.Dialog.v2" timestamp="1595880708084">
+    <state x="722" y="145" key="Vcs.Push.Dialog.v2" timestamp="1595881141481">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="722" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595880708084" />
+    <state x="722" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595881141481" />
     <state x="570" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1595871521067">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
