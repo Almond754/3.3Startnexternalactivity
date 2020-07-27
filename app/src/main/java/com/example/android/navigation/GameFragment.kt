@@ -98,10 +98,12 @@ class GameFragment : Fragment() {
                         currentQuestion = questions[questionIndex]
                         setQuestion()
                         binding.invalidateAll()
-                    } else { view.findNavController()
-                            .navigate(GameFragmentDirections
-                                    .actionGameFragmentToGameWonFragment())
+                    } else {
                         // We've won!  Navigate to the gameWonFragment.
+                        view.findNavController()
+                                .navigate(GameFragmentDirections
+                                        .actionGameFragmentToGameOverFragment())
+
                     }
                 } else {view.findNavController()
                         .navigate(GameFragmentDirections
